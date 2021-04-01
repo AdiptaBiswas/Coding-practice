@@ -1,6 +1,5 @@
 # This is a basic Quiz-game simulator in Python
 
-
 class Question:
     
     def __init__(self, prompt, answer):
