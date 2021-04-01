@@ -1,2 +1,12 @@
-# Coding-practice
-Repo contains set of small idea-problems and respective codes solely for fun-o-practice purpose.
+## Programming practice problems and codes
+
+### ❓ This repo contains:
+- Practice problems, small coding games and stuffs
+- Programming challenges and idea-problems like Tic-tac-toe, etc. 
+- Puzzle problems, patterns, etc.
+- **_Noob alert_** ⚠️
+***
+### 👾 Programming languages:
+- Python
+- JavaScript
+- C
