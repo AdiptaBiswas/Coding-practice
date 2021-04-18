@@ -17,7 +17,6 @@ void main()
         }
     else
         printf("You chose not to change your age.");
-    
 }
 
 void edit(int *n_age)
@@ -25,3 +24,12 @@ void edit(int *n_age)
     printf("Enter your new age: ");
     scanf("%d", n_age);
 }
+
+/* Output:
+
+Do you want to change your age from 25?                                                                                                         
+Press 'Y' to change and 'N' to ignore: Y                                                                                                        
+Enter your new age: 26                                                                                                                          
+Your age has been changed from 25 to 26.
+
+*/
