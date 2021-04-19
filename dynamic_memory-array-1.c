@@ -40,3 +40,16 @@ void array_sum()
     printf("> Sum of array: %d\n", sum);
     max_num(ptr, size);
 }
+
+/* Output
+
+> Enter array size: 5                                                                                                                           
+    > Enter number: 23                                                                                                                          
+    > Enter number: 54                                                                                                                          
+    > Enter number: 1                                                                                                                           
+    > Enter number: 23                                                                                                                          
+    > Enter number: 78                                                                                                                          
+* Sum of array: 179                                                                                                                             
+* Maximum number in array: 78
+
+*/
