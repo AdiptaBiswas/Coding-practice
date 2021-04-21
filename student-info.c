@@ -69,3 +69,19 @@ void dob()
     student_1.age = 2021 - student_1.y_birth;
     printf("   $ Student current age: %d\n", student_1.age);
 }
+
+/* Output
+
+Welcome to student portal..                                                                                                                     
+                                                                                                                                                
+>> Enter student name: John Doe                                                                                                                 
+   $ Student name: John Doe                                                                                                                     
+>> Enter student marks: 34 54 76 87 45                                                                                                          
+   $ Student average marks: 59                                                                                                                  
+>> Enter student D.O.B: 14/09/2008                                                                                                              
+   $ Student D.O.B entered: 14/9/2008                                                                                                           
+   $ Student current age: 13                                                                                                                    
+>> Enter student standard: 10                                                                                                                   
+   $ Student standard: Class-10
+   
+*/
