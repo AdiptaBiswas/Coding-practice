@@ -53,3 +53,31 @@ void insert(int *arr)
     printf("\n");
 }
 
+/* Output
+
+Value insertion in Array                                                                                                                        
+                                                                                                                                                
+> Enter: 12                                                                                                                                     
+> Enter: 45                                                                                                                                     
+> Enter: 65                                                                                                                                     
+> Enter: 87                                                                                                                                     
+> Enter: 98                                                                                                                                     
+> Enter: 21                                                                                                                                     
+> Enter: 17                                                                                                                                     
+> Enter: 19                                                                                                                                     
+> Enter: 36                                                                                                                                     
+> Enter: 59                                                                                                                                     
+                                                                                                                                                
+> Values entered: 12 , 45 , 65 , 87 , 98 , 21 , 17 , 19 , 36 , 59                                                                               
+                                                                                                                                                
+> To insert value, enter position: 6                                                                                                            
+                                                                                                                                                
+Enter value to insert: 100                                                                                                                      
+                                                                                                                                                
+12 , 45 , 65 , 87 , 98 , 100 , 21 , 17 , 19 , 36 , 59                                                                                           
+                                                                                                                                                
+                                                                                                                                                
+...Program finished with exit code 10                                                                                                           
+Press ENTER to exit console.
+
+*/
