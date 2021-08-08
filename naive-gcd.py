@@ -11,9 +11,10 @@ def maxi(m,n):
 
 def divisor(m,n):
     smaller = maxi(m,n)
-    for i in range(1, smaller+1):
+    for i in range(smaller+1, 0, -1):
         if n % i == 0 and m % i == 0:
             fac = i
+            break
     print(fac)
     
 divisor(1947, 14748)
